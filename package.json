@@ -1,6 +1,6 @@
 {
-  "name": "jstransformer-ejs",
-  "version": "0.2.0",
+  "name": "@ngsctt/jstransformer-ejs",
+  "version": "0.3.0",
   "description": "EJS support for JSTransformers.",
   "keywords": [
     "jstransformer",
@@ -31,5 +31,8 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
+  "contributors": [
+    "Nathan Scott <dev@ngscott.net>"
+  ],
   "license": "MIT"
 }
